@@ -5,10 +5,10 @@ Future trends at Academic Reserach
 
 Master Thesis work, LUT University, Author: Joni-Pekka Kurronen
  
- -raw analysis file's
- -R code to fetch data from scopus
- -R code to produce raw analysis
- -R code used to form research results
+ -raw analysis file's<p>
+ -R code to fetch data from scopus<p>
+ -R code to produce raw analysis<p>
+ -R code used to form research results<p>
  
  Code and data is published as is, just for information.
  It's 100% spagethi code to just get work done.
