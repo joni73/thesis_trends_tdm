@@ -14,6 +14,7 @@ R-code + *.csv and *.pdf raw analysis files: <p>
 <p>
 
  -raw analysis file's at /RAAKAANAL at google drive <p>
+ -some Dictionaryes at /TUTKIMUS and MEGATRENDS
  -R code to fetch data from scopus <p>
  	hakuar_V4.R for full text <p>
  	hakuMETA_AB_v5.r for abstarct whit metadata <p>
