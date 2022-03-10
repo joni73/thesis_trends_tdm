@@ -1,19 +1,38 @@
 WORKING DOCUMENT
 
-Future trends at Academic Reserach
- - an view from production engineering
+Future trends at academic aesrach
+a view from product engineering
 
 Master Thesis work, LUT University, Author: Joni-Pekka Kurronen
  
- -raw analysis file's<p>
- -R code to fetch data from scopus<p>
+R-code realated at: <p>
+	https://github.com/joni73/thesis_trends_tdm <p>
+R-code + *.csv and *.pdf raw analysis files: <p>
+        https://drive.google.com/drive/folders/1dIBji7311INISWZPtVi1Gp2tz-p4EJf2?usp=sharing <p>
+        
+<p>
+<p>
+
+ -raw analysis file's at /RAAKAANAL at google drive <p>
+ -R code to fetch data from scopus <p>
+ 	hakuar_V4.R for full text <p>
+ 	hakuMETA_AB_v5.r for abstarct whit metadata <p>
+ -R code to generate AR and AB corpus from search results <p>
+        CorpABGenV2.R generates abstract database <p>
+        hakuMETA_v3.r generates fulltext database whit meta data <p>
+        hakuMETA_AB_v5.r generates abstract database whit meta data <p>
  -R code to produce raw analysis<p>
+        trend28.R <p>
+        trend_freq_w_v27.R <p>
  -R code used to form research results<p>
- 
+        CSV_counter_FINAL.R <P>
+        
  Code and data is published as is, just for information.
  It's 100% spagethi code to just get work done.
+ You can find some glues how to get your work done. Even code
+ is fully working it's not done any form production use.
  
- R code is licenced by term's - FREE CODE TO BE USED AS YOU WANNA USE
+ all R code is licenced by term's - FREE CODE TO BE USED AS YOU WANNA USE
  
  Raw analysis files are based Elsevier Scopus database and
  published under below term's and licence:
