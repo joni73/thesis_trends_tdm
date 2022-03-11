@@ -274,10 +274,10 @@ if(etal[[etx]][1]!="")
 
 resea=reseaa
 
-inr=inst_token_header("e8512534e02f95a1905319bf9974376a")
-options("elsevier_api_key" = "9875f3663b1a89841d2d46dddacca8f0")
+inr=inst_token_header("XXXxxxXXX")
+options("elsevier_api_key" = "XXXxxxXXX")
 api_key=get_api_key
-apikey3= "9875f3663b1a89841d2d46dddacca8f0"
+apikey3= "XXXxxxXXX"
 
 for( c in uni )
 {
