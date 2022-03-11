@@ -41,6 +41,20 @@ R-code + *.csv and *.pdf raw analysis files: <p>
         
         <p>
         <p>
+
+R code used at this project:<p>        
+         <blockquote>
+         https://github.com/ropensci/rcrossref <p>
+         https://johnmuschelli.com/rscopus/ <p>
+         https://quanteda.io/ <p>
+         https://www.bibliometrix.org/ <p>
+         https://www.r-project.org/ <p>
+         https://www.rdocumentation.org/packages/R2wd/versions/1.5/topics/R2wd-package <p>
+         https://www.rdocumentation.org/packages/ggplot2/versions/3.3.5 <p>
+         https://personality-project.org/r/psych/ <p>
+         </blockquote>
+        <p>
+        <p>
 CITATION<p>        
         <blockquote>
         @phdthesis{Kurronen2022,
@@ -56,7 +70,8 @@ url = {https://lutpub.lut.fi/handle/10024/163802},
 year = {2022}
 }
         </blockquote>
-You can cite this code and related thesis by:
+        
+You can cite this code and related thesis by: <a href="https://github.com/joni73/thesis_trends_tdm/blob/main/Thesis_2022_trend_tdm.bib"> Thesis_2022_trend_tdm.bib </a>
 
 
         
